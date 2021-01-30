@@ -26,11 +26,11 @@
 	},
 	"homepage": "https://github.com/diogoeichert/clonefolder#readme",
 	"dependencies": {
-		"makeway": "^1.1.1"
+		"makeway": "^1.1.3"
 	},
 	"devDependencies": {
-		"deltree": "^1.2.1",
-		"eslint": "^7.5.0",
+		"deltree": "^1.2.4",
+		"eslint": "^7.18.0",
 		"eslint-config-classic": "^0.1.0"
 	}
 }
