@@ -27,11 +27,11 @@
 	"funding": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=cli-boot&currency_code=EUR",
 	"homepage": "https://github.com/diogoeichert/clonefolder#readme",
 	"dependencies": {
-		"makeway": "^1.1.3"
+		"makeway": "^1.1.4"
 	},
 	"devDependencies": {
 		"deltree": "^1.2.4",
-		"eslint": "^7.18.0",
+		"eslint": "^7.19.0",
 		"eslint-config-classic": "^0.1.0"
 	}
 }
